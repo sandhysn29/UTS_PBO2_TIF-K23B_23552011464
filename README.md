@@ -96,5 +96,5 @@ Kenapa pakai ini? Agar struktur program jelas. Kita tahu bahwa setiap rekening p
 ## Demo Proyek
 <ul>
   <li>Github: <a href="">Github</a></li>
-  <li>Youtube: <a href="">Youtube</a></li>
+  <li>Youtube: <a href="https://youtu.be/ShblsOBuLzA?feature=shared">Youtube</a></li>
 </ul>
